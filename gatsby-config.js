@@ -48,6 +48,16 @@ const plugins = [
       anonymize: false,
     },
   },
+  {
+    resolve: `gatsby-plugin-sharp`,
+    options: {
+      defaults: {
+        quality: 70,
+        formats: ['auto', 'webp', 'avif'],
+        placeholder: 'blurred',
+      },
+    },
+  },
 ];
 // check and add algolia
 if (config.header.search && config.header.search.enabled && config.header.search.algoliaAppId && config.header.search.algoliaAdminKey) {

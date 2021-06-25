@@ -6,11 +6,11 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
+    logo: 'https://dlsostatic.blob.core.windows.net/$web/img/logo-md-blue.png',
     logoLink: 'http://dlsosoccer.com',
     title:
-      "<a href='http://dlsosoccer.com'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='DLSO' /></a>",
-    githubUrl: 'https://github.com/RonaldLundberg/dlso-gatsby',
+      "<a href='http://dlsosoccer.com'><img class='img-responsive' src='https://dlsostatic.blob.core.windows.net/$web/img/1X1.png' alt='DLSO' /></a>",
+    githubUrl: '',
     helpUrl: '',
     tweetText: '',
     social: ``,
@@ -35,14 +35,14 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='http://dlsosoccer.com'>graphql </a><div class='greenCircle'></div><a href='http://dlsosoccer.com'>Rules</a>",
+      "<a href='http://dlsosoccer.com'></a><div class='greenCircle'></div><a href='http://dlsosoccer.com'></a>",
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'Development League of Souther Oregon | DLSO',
+    description: 'The Development League of Southern Oregon was created to generate balanced competition among all age groups from U8 through Middle School.',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    docsLocation: 'https://github.com/RonaldLundberg/dlso-gatsby',
+    favicon: 'https://dlsostatic.blob.core.windows.net/$web/img/soccer-512x512.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
@@ -56,7 +56,7 @@ const config = {
       crossOrigin: 'use-credentials',
       icons: [
         {
-          src: 'src/pwa-512.png',
+          src: 'src/soccer-512x512.png',
           sizes: `512x512`,
           type: `image/png`,
         },
