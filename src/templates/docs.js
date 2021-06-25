@@ -93,9 +93,16 @@ export default class MDXRuntimeTest extends Component {
           <StyledHeading>{mdx.fields.title}</StyledHeading>
           <Edit className={'mobileView'}>
             {docsLocation && (
+<<<<<<< HEAD
               <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
                 <img src={githubIcon} alt={'Github logo'} /> Edit on GitHub
               </Link>
+=======
+              <span></span>
+              // <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
+              //   <img src={githubIcon} alt={'Github logo'} /> Edit on GitHub
+              // </Link>
+>>>>>>> 841a57ead358a18eff6056b7682c11b9a6090896
             )}
           </Edit>
         </div>
