@@ -38,7 +38,7 @@ const config = {
       "<a href='http://dlsosoccer.com'></a><div class='greenCircle'></div><a href='http://dlsosoccer.com'></a>",
   },
   siteMetadata: {
-    title: 'Development League of Souther Oregon | DLSO',
+    title: 'Development League of Southern Oregon | DLSO',
     description: 'The Development League of Southern Oregon was created to generate balanced competition among all age groups from U8 through Middle School.',
     ogImage: null,
     docsLocation: 'https://github.com/RonaldLundberg/dlso-gatsby',
