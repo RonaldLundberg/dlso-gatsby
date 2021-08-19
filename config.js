@@ -31,7 +31,7 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'DLSO Covid-19 Operations Plan and Modified Rules', link: 'https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-covid-19-operations-plan-and-modified-rules.pdf' }],
+    links: [{ text: '', link: 'https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-covid-19-operations-plan-and-modified-rules.pdf' }],
     frontline: false,
     ignoreIndex: true,
     title:
