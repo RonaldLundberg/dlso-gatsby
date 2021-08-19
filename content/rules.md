@@ -6,7 +6,6 @@ title: "DLSO Rules"
 - [U12](https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-league-rules-division-2.pdf)
 - [U10](https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-league-rules-division-3.pdf)
 - [U8](https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-league-rules-division-4.pdf)
-- [U6](https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-league-rules-division-5.pdf)
 - [High School](https://dlsostatic.blob.core.windows.net/dlso-rules/dlso-league-rules-high-school-division.pdf)
 - Laws of the Game [ENGLISH](https://www.theifab.com/laws/chapter/4) | [ESPAÑOL](https://www.theifab.com/es/laws/chapter/4)
 
